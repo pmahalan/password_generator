@@ -18,6 +18,7 @@ var littleletters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
 var numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 var specialcharacters = ["!", "#", "$", "%", "&", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "]", "^", "_", "`", "{", "|", "}", "~"];
 
+var combos = [bigletters, littleletters, numbers, specialcharacters];
 
 
 // Assignment Code
